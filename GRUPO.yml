@@ -10,7 +10,12 @@ Nome-Grupo: "GrupoEmbasbacado"
   name: Pedro Vaz de Moraes Pertusi
   git-username: PedroPertusi
   blackboard-username: pedrovmp
- 
+
+- user: 3
+  name: João Alfredo Cardoso Lamy
+  git-username: alfredjynx
+  blackboard-username: joaoacl
+
 - user: 4
   name: Julia Karine Peres
   git-username: juliakp1
